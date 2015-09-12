@@ -1,0 +1,7 @@
+name             'zope'
+maintainer       'Justin Alan Ryan'
+maintainer_email 'bitmonk@icloud.com'
+license          'Apache 2.0'
+description      'Installs/Configures zope'
+long_description 'Installs/Configures zope'
+version          '0.1.0'
